@@ -1,0 +1,45 @@
+<section id="dinner-menu">
+  <h2 class="text-2xl font-bold text-center mt-8">Dinner Menu</h2>
+  <p class="text-center italic mb-6">Served 3:00 P.M. to Close</p>
+
+  <div class="mb-8">
+    <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Pho</h3>
+    <p class="italic mb-2">(Vietnamese soup made with rice noodles)</p>
+    <ul class="space-y-1">
+      <li>Pho Tai (steak) – <span class="font-semibold">$14.50</span></li>
+      <li>Pho Tofu (Fried or Steamed Tofu) – <span class="font-semibold">$12.50</span></li>
+      <li>Pho Ga (Chicken) – <span class="font-semibold">$13.50</span></li>
+      <li>Pho Tom (Shrimp) – <span class="font-semibold">$14.50</span></li>
+      <li>Special Pho – <span class="font-semibold">$15.00</span></li>
+    </ul>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Soup</h3>
+    <ul class="space-y-1">
+      <li>EGG DROP SOUP – Mushrooms, green peas, and carrots in a chicken broth. <span class="font-semibold">$3.45</span></li>
+      <li><strong>*HOT AND SOUR SOUP</strong> – Mushrooms, bamboo shoots, and tofu in a spicy and sour broth. <span class="font-semibold">$3.75</span></li>
+      <li>WONTON SOUP – Wonton skin with pork in a chicken broth. <span class="font-semibold">$3.45</span></li>
+      <li>CHICKEN SIZZLING RICE SOUP – Chicken & vegetables, topped with “sizzling” rice. <span class="font-semibold">$4.65</span></li>
+      <li>DRAGON AND PHOENIX SOUP – Minced scallops, shrimp, and chicken with carrots, mushrooms and peas. <span class="font-semibold">$5.60</span></li>
+      <li>HUNAN SOUP – Shrimp, chicken, and vegetables in a chicken broth. <span class="font-semibold">$5.60</span></li>
+      <li>TOFU SOUP – Tofu and napa in a chicken broth. <span class="font-semibold">$4.65</span></li>
+      <li>VEGETABLE SOUP – Mixed vegetables in a chicken broth. <span class="font-semibold">$4.65</span></li>
+    </ul>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Appetizers</h3>
+    <ul class="space-y-1">
+      <li>CRAB RANGOON (6) – Cream cheese wrapped in wonton skins and deep fried. <span class="font-semibold">$5.85</span></li>
+      <li>FRIED WONTONS (8) – Piece of pork in wonton skin and deep fried. <span class="font-semibold">$4.99</span></li>
+      <li>EGG ROLL (1) – Pork with cabbage, carrots, and celery wrapped in egg roll skin and deep fried. <span class="font-semibold">$2.50</span></li>
+      <li>CHICKEN WINGS (8) – <span class="font-semibold">$8.50</span></li>
+      <li><strong>*SPICY WINGS (8)</strong> – Deep fried chicken wings stir-fried in a spicy brown sauce. <span class="font-semibold">$10.99</span></li>
+      <li>HULLA BEEF – “Beef on a stick” comes with a brown garlic sauce. <span class="font-semibold">$8.50</span></li>
+      <li>POTSTICKERS – (Steamed/fried) Dumplings stuffed with pork and cabbage. <span class="font-semibold">$8.50</span></li>
+      <li>TIDBIT PLATE (For 1) – Hulla Beef, Egg Roll, Crab Rangoon, Fried Wonton, and Chicken Wing (No Substitution) <span class="font-semibold">$8.50</span></li>
+    </ul>
+    <p class="italic mt-2">* Hot and Spicy</p>
+  </div>
+</section>
