@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,23 +32,44 @@
       border: 1px solid #a5d6a7;
       text-align: center;
     }
-    h1, h2 {
+    h1, h2, h3 {
       font-family: 'Noto Serif SC', serif;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin-bottom: 1.25rem;
+    }
+    .price {
+      font-style: italic;
+      color: #555;
+    }
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      color: #8B0000;
+    }
+    a.phone-link {
+      color: #fff;
+      font-weight: bold;
     }
   </style>
 </head>
 <body>
   <header>
     <h1>Great Hunan of Winona</h1>
-    <p>Authentic Chinese Cuisine Since 1985</p>
+    <p>Time-tested restaurant serving an array of familiar Chinese dishes in an easygoing atmosphere</p>
+    <div style="margin-top: 1rem; font-size: 0.95rem; line-height: 1.6;">
+      📍 111 W 3rd St, Winona, MN 55987<br />
+      📞 <a href="tel:+15074521556" class="phone-link">(507) 452-1556</a><br />
+      🕒 Mon–Sat: 11:00 AM – 8:00 PM | Sun: Closed<br />
+      🍽️ Dine In • Carry Out • Delivery Available
+    </div>
   </header>
+
   <section class="bamboo">
     <h2>Lunch 11:00 AM – 3:00 PM</h2>
     <p>All lunch entrees come with your choice of steamed or fried rice and either 1 egg roll or 2 crab rangoons.</p>
-  </section>
-  <section>
-    <h2>Welcome</h2>
-    <p>This GitHub-ready version of your site is styled and structured for hosting via GitHub Pages and Netlify.</p>
-  </section>
-</body>
-</html>
+    </section>
