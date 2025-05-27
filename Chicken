@@ -1,0 +1,28 @@
+
+<section id="chicken-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Chicken</h3>
+  <ul class="space-y-2">
+    <li><strong>ALMOND CHICKEN</strong> – Sliced chicken with peas, mushrooms, water chestnuts, and carrots in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>CASHEW CHICKEN</strong> – Sliced chicken with green onions, white onions and cashew nuts. <span class="font-semibold">$13.50</span></li>
+    <li><strong>CHICKEN BROCCOLI</strong> – Chicken with broccoli and carrots in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*CHICKEN MAJESTIC</strong> – Battered chicken in a tangy brown garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>CHICKEN MUSHROOMS</strong> – Chicken with mushrooms, peapods, baby corn, and carrots in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>CHICKEN SNOW PEAPODS</strong> – Chicken with snow peapods, and water chestnuts in a white garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>CHICKEN VEGETABLE</strong> – Chicken with broccoli, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, onions, and green peppers in a white garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*CURRY CHICKEN</strong> – Chicken stir fried in a curry sauce with peas, carrots, onions, and fried potato slices. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*FRAGRANT CHICKEN</strong> – Chicken with water chestnuts, celery, green onion and mushrooms stir-fried in a tangy garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>GARLIC CHICKEN</strong> – Sliced chicken with white onions, water chestnuts, mushrooms, and green onion in a brown garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>HONG KONG CHICKEN</strong> – Battered white meat chicken with a mix of vegetables cooked in a brown garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*HUNAN CHICKEN</strong> – White meat chicken with slices of broccoli & whole dried chili peppers stir-fried in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*KUNG PAO CHICKEN</strong> – Sliced chicken with peanuts, green onions, water chestnuts, celery, and whole dried chili peppers in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>LEMON CHICKEN</strong> – A special lemon sauce over battered white meat chicken and topped with a slice of lemon and cherry. <span class="font-semibold">$13.50</span></li>
+    <li><strong>MOO GOO GAI PAN</strong> – Chicken, broccoli, mushrooms, peapods, and water chestnuts stir-fried in a white sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>ORANGE CHICKEN</strong> – Battered diced chicken cooked with a special orange-flavored sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*GENERAL TSO’S CHICKEN</strong> – Diced chicken batter fried, in a tangy brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>RAINBOW CHICKEN</strong> – Chicken with broccoli, cabbage, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, in brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>SESAME CHICKEN</strong> – Chicken stir-fried in a special sauce over a bed of steamed broccoli and topped with sesame seeds. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*SZECHUAN CHICKEN</strong> – Sliced chicken with broccoli and green peppers stir-fried in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*TA-CHIN CHICKEN</strong> – Chicken with green peppers, onions, baby corn, and mushroom stir-fried in a spicy brown sauce. <span class="font-semibold">$13.50</span></li>
+  </ul>
+  <p class="italic mt-2">* Hot and Spicy</p>
+</section>
