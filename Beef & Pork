@@ -1,0 +1,34 @@
+<section id="beef-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Beef</h3>
+  <ul class="space-y-2">
+    <li><strong>BEEF BROCCOLI</strong> – Beef stir-fried broccoli and carrots in brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>BEEF SNOW PEAPODS</strong> – Beef snow peapods and water chestnuts stir-fried in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>BEEF VEGETABLE</strong> – Beef stir-fried broccoli, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, onions, and green peppers in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>BEEF WITH BLACK MUSHROOMS</strong> – Beef stir-fried black mushrooms, bamboo shoots, and snow peapods in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*CURRY BEEF</strong> – Beef stir fried in a curry sauce with peas, carrots, onions, and fried potato slices. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*FRAGRANT BEEF</strong> – Beef strips, bamboo shoots, water chestnuts, mushrooms, and green onions stir-fried in a tangy sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*HUNAN BEEF</strong> – Strips of beef stir-fried with carrots in brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*KUNG PAO BEEF</strong> – Beef, peanuts, green onions, water chestnuts, celery, and whole dried chili peppers stir-fried in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>MONGOLIAN BEEF</strong> – Beef cooked with green onions, white onions, and bamboo shoots in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>ORANGE BEEF</strong> – Battered beef cooked with a special orange-flavored sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>PEPPER STEAK</strong> – Steak stir-fried with green peppers and onions in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*SA-TSA BEEF</strong> – Beef stir-fried with baby corn, mushrooms, and green onions in a special brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SESAME BEEF</strong> – Beef stir-fried in a special sauce over a bed of steamed broccoli and topped with sesame seeds. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*SZECHUAN BEEF</strong> – Beef cooked with cabbage, bamboo shoots, green peppers, & black mushrooms in a Szechuan sauce. <span class="font-semibold">$14.50</span></li>
+  </ul>
+</section>
+
+<section id="pork-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Pork</h3>
+  <ul class="space-y-2">
+    <li><strong>*FRAGRANT PORK</strong> – Strips of pork stir-fried with bamboo shoots, water chestnuts, mushrooms, and green onions in a tangy sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*HUNAN PORK</strong> – Pork, broccoli, and whole dried chili peppers stir-fried in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*MA PO TOFU</strong> – Tofu, mushrooms, carrots, peas, and carrots, and strips of pork stir-fried in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>PLUM PORK</strong> – Pork, bamboo shoots, and snow peapods stir-fried in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>PORK BROCCOLI</strong> – Pork stir-fried with broccoli and carrots, in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*PORK MAJESTIC</strong> – Battered pork in a tangy brown garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>PORK VEGETABLE</strong> – Pork stir-fried broccoli, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, onions, and green peppers in a brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*SZECHUAN PORK</strong> – Pork cooked with cabbage, bamboo shoots, green peppers, & black mushrooms in a Szechuan sauce. <span class="font-semibold">$13.50</span></li>
+  </ul>
+  <p class="italic mt-2">* Hot and Spicy</p>
+</section>
