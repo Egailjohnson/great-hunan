@@ -1,0 +1,90 @@
+<section id="lo-mein-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Lo Mein</h3>
+  <p class="italic mb-2">(Egg noodles, cabbage, carrots, green onions, and bamboo shoots)</p>
+  <ul class="space-y-1">
+    <li>VEGETABLE LO MEIN – <span class="font-semibold">$11.95</span></li>
+    <li>CHICKEN LO MEIN – <span class="font-semibold">$13.50</span></li>
+    <li>PORK LO MEIN – <span class="font-semibold">$13.50</span></li>
+    <li>SHRIMP LO MEIN – <span class="font-semibold">$14.50</span></li>
+    <li>BEEF LO MEIN – <span class="font-semibold">$14.50</span></li>
+    <li>SPECIAL LO MEIN (Beef, Chicken, and Shrimp) – <span class="font-semibold">$14.50</span></li>
+  </ul>
+</section>
+
+<section id="mu-shu-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Mu Shu</h3>
+  <p class="italic mb-2">(Eggs, bamboo shoots, cabbage, green onions, and mushrooms – comes with Mu Shu pancakes)</p>
+  <ul class="space-y-1">
+    <li>MU SHU VEGETABLE – <span class="font-semibold">$11.95</span></li>
+    <li>MU SHU CHICKEN – <span class="font-semibold">$13.50</span></li>
+    <li>MU SHU PORK – <span class="font-semibold">$13.50</span></li>
+    <li>MU SHU SHRIMP – <span class="font-semibold">$14.50</span></li>
+    <li>MU SHU BEEF – <span class="font-semibold">$14.50</span></li>
+    <li>SPECIAL MU SHU (Beef, Chicken, and Shrimp) – <span class="font-semibold">$14.50</span></li>
+  </ul>
+</section>
+
+<section id="sweet-and-sour-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Sweet and Sour</h3>
+  <p class="italic mb-2">(Green peppers, carrots, and pineapple)</p>
+  <ul class="space-y-1">
+    <li>SWEET AND SOUR PORK – <span class="font-semibold">$11.95</span></li>
+    <li>SWEET AND SOUR CHICKEN – <span class="font-semibold">$11.95</span></li>
+    <li>SWEET AND SOUR DELIGHT (Chicken, Pork, and Shrimp) – <span class="font-semibold">$14.50</span></li>
+    <li>SWEET AND SOUR SHRIMP – <span class="font-semibold">$14.50</span></li>
+  </ul>
+</section>
+
+<section id="fried-rice-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Fried Rice</h3>
+  <ul class="space-y-1">
+    <li>VEGETABLE FRIED RICE – <span class="font-semibold">$12.50</span></li>
+    <li>CHICKEN FRIED RICE – <span class="font-semibold">$12.50</span></li>
+    <li>PORK FRIED RICE – <span class="font-semibold">$12.50</span></li>
+    <li>SHRIMP FRIED RICE – <span class="font-semibold">$13.50</span></li>
+    <li>BEEF FRIED RICE – <span class="font-semibold">$13.50</span></li>
+    <li>SPECIAL FRIED RICE (Beef, Chicken, and Shrimp) – <span class="font-semibold">$13.50</span></li>
+  </ul>
+</section>
+
+<section id="egg-foo-young-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Egg Foo Young</h3>
+  <p class="italic mb-2">(Bamboo shoots and cabbage mixed with eggs and fried into a patty shape)</p>
+  <ul class="space-y-1">
+    <li>VEGETABLE EGG FOO YOUNG – <span class="font-semibold">$11.95</span></li>
+    <li>CHICKEN EGG FOO YOUNG – <span class="font-semibold">$13.50</span></li>
+    <li>PORK EGG FOO YOUNG – <span class="font-semibold">$13.50</span></li>
+    <li>SHRIMP EGG FOO YOUNG – <span class="font-semibold">$14.50</span></li>
+    <li>SPECIAL EGG FOO YOUNG (Beef, Chicken, and Shrimp) – <span class="font-semibold">$14.50</span></li>
+    <li>BEEF EGG FOO YOUNG – <span class="font-semibold">$14.50</span></li>
+  </ul>
+</section>
+
+<section id="children-plates" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Children’s Plates</h3>
+  <p class="italic mb-2">(Includes scoop of rice and French fries)</p>
+  <ul class="space-y-1">
+    <li>CHILDREN’S CHICKEN – <span class="font-semibold">$7.75</span></li>
+    <li>CHILDREN’S PORK – <span class="font-semibold">$7.75</span></li>
+    <li>CHILDREN’S SHRIMP – <span class="font-semibold">$7.75</span></li>
+    <li>FRENCH FRIES – <span class="font-semibold">$3.99</span></li>
+  </ul>
+</section>
+
+<section id="extras-drinks" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Extras</h3>
+  <ul class="space-y-1">
+    <li>STEAMED VEGETABLE OR LO MEIN ON THE SIDE<br>Small – <span class="font-semibold">$2.15</span> | Large – <span class="font-semibold">$3.50</span></li>
+    <li>Add any veggie or nuts – <span class="font-semibold">$1.00</span></li>
+    <li><strong>SAUCE ON THE SIDE</strong> – Cup <span class="font-semibold">$1.50</span>, Bowl <span class="font-semibold">$2.50</span></li>
+    <li>Add any tofu or meat in dish – <span class="font-semibold">$2.00 or more</span></li>
+  </ul>
+
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mt-6 mb-2">Beverages</h3>
+  <ul class="space-y-1">
+    <li>HOT TEA – <span class="font-semibold">$1.99</span></li>
+    <li>ICED TEA – <span class="font-semibold">$1.99</span></li>
+    <li>SOFT DRINKS (Coke, Diet Coke, Sprite, Mello Yello, and Root Beer) – <span class="font-semibold">$1.99</span></li>
+
+  </ul>
+</section>
