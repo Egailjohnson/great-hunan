@@ -1,0 +1,39 @@
+<section id="lamb-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Lamb</h3>
+  <ul class="space-y-2">
+    <li><strong>*CURRY LAMB</strong> – Lamb stir fried in a curry sauce with peas, carrots, onions, and fried potato slices. <span class="font-semibold">$15.99</span></li>
+    <li><strong>*FRAGRANT LAMB</strong> – Lamb with water chestnuts, celery, mushrooms, and green onion stir-fried in a tangy sauce. <span class="font-semibold">$15.99</span></li>
+    <li><strong>*HUNAN LAMB</strong> – Lamb stir-fried with broccoli, mushrooms, and baby corn in a brown sauce. <span class="font-semibold">$15.99</span></li>
+    <li><strong>*KUNG PAO LAMB</strong> – Lamb, peanuts, green onions, celery, water chestnuts and whole dried chili peppers stir-fried in a brown sauce. <span class="font-semibold">$15.99</span></li>
+    <li><strong>LAMB VEGETABLE</strong> – Lamb stir-fried broccoli, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, onions, and green peppers in a brown sauce. <span class="font-semibold">$15.99</span></li>
+    <li><strong>MONGOLIAN LAMB</strong> – Lamb cooked with green onions, white onion and baby corn in a brown sauce. <span class="font-semibold">$15.99</span></li>
+    <li><strong>*SZECHUAN LAMB</strong> – Lamb cooked with cabbage, bamboo shoots, green peppers, & black mushrooms in a Szechuan sauce. <span class="font-semibold">$15.99</span></li>
+  </ul>
+</section>
+
+<section id="vegetable-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Vegetables</h3>
+  <ul class="space-y-2">
+    <li><strong>BRAISED TOFU</strong> – Fried tofu with black mushrooms, peapods, and bamboo shoots in a brown garlic sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*CURRY TOFU</strong> – Tofu stir-fried in a curry sauce with peas, carrots, onions, and fried potato slices. <span class="font-semibold">$13.50</span></li>
+    <li><strong>TOFU VEGETABLES</strong> – Broccoli, peapods, carrots, baby corn, bamboo shoots, green peppers, onions and mushrooms in brown sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*SZECHUAN TOFU</strong> – Fried tofu cooked with cabbage, bamboo shoots, green peppers, & black mushrooms in a Szechuan sauce. <span class="font-semibold">$13.50</span></li>
+    <li><strong>*FRAGRANT VEGETABLES</strong> – Broccoli, snow peapods, carrots, baby corn, bamboo shoots, green peppers, onions, mushrooms, and cooked in a tangy brown sauce. <span class="font-semibold">$11.95</span></li>
+    <li><strong>VEGETABLE DELUXE</strong> – Broccoli, snow peapods, baby corn, carrots, mushrooms, green peppers, onions, and bamboo shoots in a white garlic sauce. <span class="font-semibold">$11.95</span></li>
+  </ul>
+</section>
+
+<section id="chow-mein-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Chow Mein / Chop Suey</h3>
+  <p class="italic mb-2">Chow Mein has napa, and onions<br>Chop Suey has mixed vegetables and cashews<br>Both comes with crispy noodles</p>
+  <ul class="space-y-1">
+    <li>VEGETABLE CHOW MEIN – <span class="font-semibold">$11.95</span></li>
+    <li>MUSHROOM CHOW MEIN – <span class="font-semibold">$11.95</span></li>
+    <li>PORK CHOW MEIN – <span class="font-semibold">$11.95</span></li>
+    <li>CHICKEN CHOW MEIN – <span class="font-semibold">$11.95</span></li>
+    <li>SHRIMP CHOW MEIN – <span class="font-semibold">$14.50</span></li>
+    <li>SPECIAL CHOW MEIN (Beef, Chicken, and Shrimp) – <span class="font-semibold">$14.50</span></li>
+    <li>BEEF CHOW MEIN – <span class="font-semibold">$14.50</span></li>
+  </ul>
+  <p class="italic mt-2">* Hot and Spicy</p>
+</section>
