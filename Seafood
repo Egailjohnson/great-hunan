@@ -1,0 +1,24 @@
+<section id="seafood-dinner" class="mb-10">
+  <h3 class="text-xl font-semibold border-b border-gray-300 pb-1 mb-2">Seafood</h3>
+  <ul class="space-y-2">
+    <li><strong>CASHEW SHRIMP</strong> – Shrimps with cashew nuts, green onions, white onions, and water chestnuts in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*CURRY SHRIMP</strong> – Shrimp stir fried in a curry sauce with peas, carrots, onions, and fried potato slices. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*FRAGRANT SCALLOP</strong> – Scallops with water chestnuts, celery, mushrooms, and green onion stir-fried in a tangy sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*FRAGRANT SHRIMP</strong> – Shrimp with water chestnuts, celery, mushrooms, and green onion stir-fried in a tangy and spicy brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>HON SHU SHRIMP</strong> – Battered shrimp with mixed vegetables in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>IMPERIAL SCALLOPS</strong> – Scallops with broccoli, carrots, baby corn, peapods, mushrooms, and water chestnuts stir-fried in a white garlic sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*KUNG PAO SHRIMP</strong> – Shrimp with water chestnuts, celery, peanuts, whole dried chili peppers, green onions in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>RAINBOW SHRIMP</strong> – Shrimp with broccoli, cabbage, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*SHRIMP AND CHICKEN SZECHUAN STYLE</strong> – Sliced chicken and shrimp with green onions, water chestnuts, peanuts, and whole dried chili peppers in a brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SHRIMP IN LOBSTER SAUCE</strong> – Shrimp with peas, carrots, mushrooms, and water chestnuts stir-fried in a special white sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>*SHRIMP MAJESTIC</strong> – Battered shrimp and a tangy brown garlic sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SHRIMP SNOW PEAPODS</strong> – Shrimp cooked in a white garlic sauce with peapods, carrots, and mushrooms. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SHRIMP VEGETABLE</strong> – Shrimp with broccoli, cabbage, snow peapods, carrots, mushrooms, water chestnuts, baby corn, bamboo shoots, onions, and green peppers in a white garlic sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SIZZLING RICE SHRIMP</strong> – Shrimp stir-fried in a brown sauce with peapods, baby corn, carrots, & mushrooms served on a hot plate. <span class="font-semibold">$14.50</span></li>
+    <li><strong>TRIPLE DELIGHT</strong> – Shrimp, chicken, and beef with peapods, baby corn, bamboo shoots, broccoli, and mushrooms in a white garlic sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>WONDERFUL SHRIMP</strong> – Shrimp stir-fried with broccoli, carrots, baby corn, mushrooms, bamboo shoots, water chestnuts, and peapods in a spicy brown sauce. <span class="font-semibold">$14.50</span></li>
+    <li><strong>SCALLOP (SHRIMP) AND STEAK SIZZLER</strong> – Steak stir-fried with scallop mushrooms, peas, and carrots in a brown sauce served on a hot plate. <span class="font-semibold">$16.99</span></li>
+    <li><strong>HAPPY FAMILY</strong> – Scallops, shrimps, chicken, beef, broccoli, carrot, baby corn, water chestnuts, peapods, mushrooms in a white garlic sauce served on a hot plate. <span class="font-semibold">$16.99</span></li>
+  </ul>
+  <p class="italic mt-2">* Hot and Spicy</p>
+</section>
